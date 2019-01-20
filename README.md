@@ -46,3 +46,6 @@ $ sudo chef-client --local-mode /simple-chef/user.rb
 ```
 ## notes
 recipe could still be refactored to use variables and could have added more properties.
+
+## License
+Copyright © Ed Mamerto.
