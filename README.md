@@ -4,7 +4,7 @@
 
 **In this project you will:**
  - Define a user and home directory 
- - Generate an SSH key and place it in the appropriate path
+ - Generate an SSH key and place it into the appropriate path
 
  Check out >>> [user.rb](https://github.com/edmamerto/simple-chef/blob/master/recipe/user.rb)
 
