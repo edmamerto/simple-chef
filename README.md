@@ -14,6 +14,7 @@ For this purpose, I used a virtual workstation that I setup with vagrant and vir
 
 ## Installation
 You need `chefDK` and `vagrant` 
+
 Vagrant
 - https://www.vagrantup.com/docs/installation/
 
