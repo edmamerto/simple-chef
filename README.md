@@ -44,7 +44,8 @@ $ sudo dpkg -i chefdk_3.2.30-1_amd64.deb
 ```
 run the recipe
 
-*shared/synced folder is already setup in the `vagrantfile`*
+>*shared/synced folder is already setup in the `vagrantfile`*
+
 ```bash
 $ sudo chef-client --local-mode /simple-chef/user.rb
 ```
