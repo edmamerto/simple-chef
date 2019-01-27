@@ -19,7 +19,7 @@ ChefDK (install on node, see next section)
 - https://docs.chef.io/install_dk.html
 
 >Alternatively you can use my vagrant box that comes with *Chef pre-installed*
-[edmamerto/bento-ubuntu-16.04-chef](https://app.vagrantup.com/edmamerto/boxes/bento-ubuntu-16.04-chef/versions/0.1.0)
+>[edmamerto/bento-ubuntu-16.04-chef](https://app.vagrantup.com/edmamerto/boxes/bento-ubuntu-16.04-chef/versions/0.1.0)
 
 Vagrant
 - https://www.vagrantup.com/docs/installation/
