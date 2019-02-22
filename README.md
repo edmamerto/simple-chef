@@ -1,6 +1,5 @@
 # Simple Chef
-> This is a simple chef example to get you started with chef right away
-
+> This is a simple chef example to get you started with chef 
 
 **In this project you will:**
  - Define a user and home directory 
